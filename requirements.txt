@@ -1,0 +1,8 @@
+flask
+scikit-learn==1.5.1
+pandas
+numpy
+
+streamlit
+
+seaborn
